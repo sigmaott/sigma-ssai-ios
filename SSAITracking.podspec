@@ -1,0 +1,19 @@
+Pod::Spec.new do |spec|
+  spec.name               = "SSAITracking"
+  spec.version            = "1.0.7"
+  spec.summary            = "SimgaSSAI Library for iOS apps"
+  spec.description        = "TDM SimgaSSAI Library for iOS apps"
+  spec.homepage           = "https://github.com/sigmaott/sigma-ssai-ios"
+  spec.documentation_url  = "https://github.com/sigmaott/sigma-ssai-ios"
+  spec.license            = { :type => "MIT" }
+  spec.author             = { "TDM" => "multimediathudojsc@gmail.com" }
+  spec.source             = { :git => 'https://github.com/sigmaott/sigma-ssai-ios', :tag => "#{spec.version}" }
+  spec.swift_version      = "5.3"
+  spec.source_files = "SSAITracking/**/*.{h}"
+
+  # Supported deployment targets
+  spec.ios.deployment_target  = "12.4"
+
+  # Published binaries
+  spec.vendored_frameworks = "libs/ProgrammaticAccessLibrary.xcframework", "SSAITracking.xcframework"
+end
