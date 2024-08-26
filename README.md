@@ -1,1 +1,2 @@
-# sigma-ssai-ios
+# Sigma DAI avplayer ssai plugin
+
