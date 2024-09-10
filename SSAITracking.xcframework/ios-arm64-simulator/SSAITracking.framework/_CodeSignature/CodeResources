@@ -34,15 +34,15 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		cNPr3r9Buw1QoKso5G2W7/Zf5/0=
+		KZUfZ0UGjdgDUTjU/4u/QAumiTA=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		W/JjOO/JuIswWuwwSdwWQ/6YHLU=
+		/Psn3S64rY9b4gJbvLez5wgQJuk=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cLWYHM3lSKywNp3ikWecA9P4MM4=
+		ZSsaYAmgRQUbJjPQqxOhy6jsSzQ=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cLWYHM3lSKywNp3ikWecA9P4MM4=
+		ZSsaYAmgRQUbJjPQqxOhy6jsSzQ=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		15tqql0KjYomnV7yDJXsFXT9a9A=
+		k5gLPuzLUTid/XbD4FrP7xH4VTI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,21 +109,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dal1We9SbQJbwUzWTbxe5uK1fDOdP9rrqffkhd09WTo=
+			U21u6FYzZOjd1Qw6yabzw9+XWPE+7JsnzmsEgBnAFMw=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFAwtrKLW0aWRNGUI9L7wQzBS5bhAel5fJSVs/+M9OU=
+			72eX7fs4vEcWdh7bBtFBxq2b8OS1ehQaeoYLr0Vpxq4=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0OqmN3m6jVBgCYuGV7JVuOPvJ8D8MiM0hnUv+xDRrHA=
+			Z+SKNiti0JYTq96K91WLRSzu4KYN3Vu3+17keRPer7Y=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0OqmN3m6jVBgCYuGV7JVuOPvJ8D8MiM0hnUv+xDRrHA=
+			Z+SKNiti0JYTq96K91WLRSzu4KYN3Vu3+17keRPer7Y=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U/HOkrKTJB5+9W6KF0abdLqfXi4epuF/VvbOEEvTiTQ=
+			EJ2QqL4Q1OCoyzJZTPrDHp3/jJnL11X/EVeADfh8TbE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
