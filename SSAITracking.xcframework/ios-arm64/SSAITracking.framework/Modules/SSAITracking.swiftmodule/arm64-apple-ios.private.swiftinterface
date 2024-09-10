@@ -28,7 +28,7 @@ import _SwiftConcurrencyShims
   @objc deinit
 }
 public protocol SigmaSSAIInterface {
-  func onSessionFail()
+  func onSessionFail(_ message: Swift.String)
   func onSessionInitSuccess(_ videoUrl: Swift.String)
   func onSessionUpdate(_ videoUrl: Swift.String)
   func onTracking(_ message: Swift.String)

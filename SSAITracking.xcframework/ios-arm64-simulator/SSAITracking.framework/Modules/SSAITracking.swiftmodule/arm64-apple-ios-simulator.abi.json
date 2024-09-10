@@ -7707,17 +7707,23 @@
           {
             "kind": "Function",
             "name": "onSessionFail",
-            "printedName": "onSessionFail()",
+            "printedName": "onSessionFail(_:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SSAITracking18SigmaSSAIInterfaceP13onSessionFailyyF",
-            "mangledName": "$s12SSAITracking18SigmaSSAIInterfaceP13onSessionFailyyF",
+            "usr": "s:12SSAITracking18SigmaSSAIInterfaceP13onSessionFailyySSF",
+            "mangledName": "$s12SSAITracking18SigmaSSAIInterfaceP13onSessionFailyySSF",
             "moduleName": "SSAITracking",
             "genericSig": "<τ_0_0 where τ_0_0 : SSAITracking.SigmaSSAIInterface>",
             "sugared_genericSig": "<Self where Self : SSAITracking.SigmaSSAIInterface>",
@@ -8277,14 +8283,14 @@
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 36991,
+      "offset": 37679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 37416,
+      "offset": 38104,
       "length": 21,
       "value": "\"dd\/MM\/yyyy_HH:mm:ss\""
     },
