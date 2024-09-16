@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<data>
-		Xym89mvwynVfRfylx0G7qwG/lfI=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		GRD2Yrb8hJyP5rBFtJVBuoF5XwI=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<data>
-		cXyLeJGFb7UPdSSfJJL9F1b2qn8=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<data>
-		p6t6+jX2/ZIEte8b7QbAShbHbOE=
-		</data>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<data>
 		+EFh/HnEnEQJeRRcWYqfoA6bjlg=
@@ -63,34 +47,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+OSEZr/qE93ZfWXi61qKP8aWoJkKwXWkguLU7SFq3x8=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O4WljswGqBbIRNj/lrwUj15B19j+SosP3CUtPBd7hUs=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1LI/NkYxC3/5l1R8xU9nTbRfkFlXVeyD/98NnN/8Jrw=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/Bo2yTsBtQEW9t4VSAgJo6XIPwzRLuwQPvHfV/PjQBo=
-			</data>
-		</dict>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
