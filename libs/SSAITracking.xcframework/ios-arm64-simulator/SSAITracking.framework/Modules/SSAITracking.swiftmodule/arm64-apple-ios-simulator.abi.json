@@ -7718,33 +7718,6 @@
           },
           {
             "kind": "Function",
-            "name": "onSessionUpdate",
-            "printedName": "onSessionUpdate(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:12SSAITracking18SigmaSSAIInterfaceP15onSessionUpdateyySSF",
-            "mangledName": "$s12SSAITracking18SigmaSSAIInterfaceP15onSessionUpdateyySSF",
-            "moduleName": "SSAITracking",
-            "genericSig": "<τ_0_0 where τ_0_0 : SSAITracking.SigmaSSAIInterface>",
-            "sugared_genericSig": "<Self where Self : SSAITracking.SigmaSSAIInterface>",
-            "protocolReq": true,
-            "reqNewWitnessTableEntry": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "onTracking",
             "printedName": "onTracking(_:)",
             "children": [

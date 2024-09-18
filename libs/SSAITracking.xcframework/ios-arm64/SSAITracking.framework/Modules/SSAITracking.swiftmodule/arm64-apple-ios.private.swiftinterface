@@ -30,6 +30,5 @@ import _SwiftConcurrencyShims
 public protocol SigmaSSAIInterface {
   func onSessionFail(_ message: Swift.String)
   func onSessionInitSuccess(_ videoUrl: Swift.String)
-  func onSessionUpdate(_ videoUrl: Swift.String)
   func onTracking(_ message: Swift.String)
 }
