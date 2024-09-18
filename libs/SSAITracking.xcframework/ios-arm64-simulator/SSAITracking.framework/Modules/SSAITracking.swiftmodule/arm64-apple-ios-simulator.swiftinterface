@@ -20,7 +20,7 @@ import _SwiftConcurrencyShims
   @objc public func nonceLoader(_ nonceLoader: ProgrammaticAccessLibrary.NonceLoader, with request: ProgrammaticAccessLibrary.NonceRequest, didFailWith error: any Swift.Error)
   @objc public func metadataOutput(_: AVFoundation.AVPlayerItemMetadataOutput, didOutputTimedMetadataGroups groups: [AVFoundation.AVTimedMetadataGroup], from _: AVFoundation.AVPlayerItemTrack?)
   @objc public func legibleOutput(_: AVFoundation.AVPlayerItemLegibleOutput, didOutputAttributedStrings strings: [Foundation.NSAttributedString], nativeSampleBuffers _: [Any], forItemTime _: CoreMedia.CMTime)
-  public func setPlayer(_ avPlayer: AVFoundation.AVPlayer, avPlayerLayer: AVFoundation.AVPlayerLayer)
+  public func setPlayer(_ avPlayer: AVFoundation.AVPlayer)
   public func playerError(playerError error: Any)
   public func clear()
   @objc override dynamic public func observeValue(forKeyPath keyPath: Swift.String?, of object: Any?, change: [Foundation.NSKeyValueChangeKey : Any]?, context: Swift.UnsafeMutableRawPointer?)
