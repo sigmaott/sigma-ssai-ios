@@ -8332,14 +8332,14 @@
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 39401,
+      "offset": 39675,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39826,
+      "offset": 40100,
       "length": 21,
       "value": "\"dd\/MM\/yyyy_HH:mm:ss\""
     },
