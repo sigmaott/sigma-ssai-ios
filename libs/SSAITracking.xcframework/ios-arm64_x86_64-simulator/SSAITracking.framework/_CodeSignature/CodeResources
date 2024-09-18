@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<data>
-		sAuOcTejuFdgR7d5k+FwpflgqWA=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		GRD2Yrb8hJyP5rBFtJVBuoF5XwI=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<data>
-		onaLIhiODWZ2QUIjiia7IY5r598=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<data>
-		+PARAXqoqBDwD7ZlhZIzFXVEwf0=
-		</data>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<data>
 		+EFh/HnEnEQJeRRcWYqfoA6bjlg=
@@ -34,11 +18,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		KZUfZ0UGjdgDUTjU/4u/QAumiTA=
+		v+YePWAD/8pPyuW7U69LJ8I6wsA=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/Psn3S64rY9b4gJbvLez5wgQJuk=
+		f8rML191VSbKDjt4CJR2ZFmpitw=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -63,34 +47,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BCYW9K1jKn57cO9cpB4wutWN+FNqG1ALycyhtsyHaNo=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O4WljswGqBbIRNj/lrwUj15B19j+SosP3CUtPBd7hUs=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ObkX2feNmUkNaceeRhkTveIdP3TxYwyemcahuJuSw8A=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0V+FCOK2pLhiMRvB0iBmTHY8KvIelBlA2DQrqBLBSyY=
-			</data>
-		</dict>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -109,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U21u6FYzZOjd1Qw6yabzw9+XWPE+7JsnzmsEgBnAFMw=
+			j7RN9pJL52XoFHb8voRlJiPIyptG4r1UaLSsrye5bBg=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			72eX7fs4vEcWdh7bBtFBxq2b8OS1ehQaeoYLr0Vpxq4=
+			Hy9lEULZ3FMoST9GcWP4WHzo14T/23/2bZrKjiUUL00=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>

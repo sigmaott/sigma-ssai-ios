@@ -4,22 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<data>
-		Xym89mvwynVfRfylx0G7qwG/lfI=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		GRD2Yrb8hJyP5rBFtJVBuoF5XwI=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<data>
-		HjuyKenhRs4/SbMc9I3izCmKnqc=
-		</data>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<data>
-		p6t6+jX2/ZIEte8b7QbAShbHbOE=
-		</data>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<data>
 		+EFh/HnEnEQJeRRcWYqfoA6bjlg=
@@ -34,11 +18,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		4EvEEtk8aj76VO6rxyIUxDVP6lE=
+		SINVdFuV91puOVx+wnI0fuSpAr0=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		/Psn3S64rY9b4gJbvLez5wgQJuk=
+		f8rML191VSbKDjt4CJR2ZFmpitw=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -63,34 +47,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+OSEZr/qE93ZfWXi61qKP8aWoJkKwXWkguLU7SFq3x8=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O4WljswGqBbIRNj/lrwUj15B19j+SosP3CUtPBd7hUs=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6FsDL7hzk12d2VIGzhbTZqoxzHVXMVjZxib6GpEIm2U=
-			</data>
-		</dict>
-		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/Bo2yTsBtQEW9t4VSAgJo6XIPwzRLuwQPvHfV/PjQBo=
-			</data>
-		</dict>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -109,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8amHyFVT5uwxArfWdUDTYwEoBbpkNqzU9SLsLa+BGJY=
+			7ydNh3qAfQMTSEPgQvN8nWsWXJyY/zZKIl29CqFF3o0=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			72eX7fs4vEcWdh7bBtFBxq2b8OS1ehQaeoYLr0Vpxq4=
+			Hy9lEULZ3FMoST9GcWP4WHzo14T/23/2bZrKjiUUL00=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
