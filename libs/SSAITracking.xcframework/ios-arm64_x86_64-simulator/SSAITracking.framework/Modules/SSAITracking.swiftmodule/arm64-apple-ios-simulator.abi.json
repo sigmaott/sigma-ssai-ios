@@ -6552,6 +6552,31 @@
           },
           {
             "kind": "Function",
+            "name": "isValidURL",
+            "printedName": "isValidURL(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SSAITracking9SigmaSSAIC10isValidURLySbSSF",
+            "mangledName": "$s12SSAITracking9SigmaSSAIC10isValidURLySbSSF",
+            "moduleName": "SSAITracking",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setShowLog",
             "printedName": "setShowLog(_:)",
             "children": [
@@ -7331,7 +7356,7 @@
           {
             "kind": "Function",
             "name": "makeHttpRequestSync",
-            "printedName": "makeHttpRequestSync(address:)",
+            "printedName": "makeHttpRequestSync(url:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -7354,14 +7379,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12SSAITracking9SigmaSSAIC19makeHttpRequestSync7addressSDySSypGSS_tF",
-            "mangledName": "$s12SSAITracking9SigmaSSAIC19makeHttpRequestSync7addressSDySSypGSS_tF",
+            "usr": "s:12SSAITracking9SigmaSSAIC19makeHttpRequestSync3urlSDySSypG10Foundation3URLV_tF",
+            "mangledName": "$s12SSAITracking9SigmaSSAIC19makeHttpRequestSync3urlSDySSypG10Foundation3URLV_tF",
             "moduleName": "SSAITracking",
             "isOpen": true,
             "funcSelfKind": "NonMutating"
@@ -8283,14 +8308,14 @@
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 37726,
+      "offset": 39222,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38151,
+      "offset": 39647,
       "length": 21,
       "value": "\"dd\/MM\/yyyy_HH:mm:ss\""
     },
