@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		n0pWddKkfMCCG/6/zgWDikRxrhY=
+		AsURWPR+9CpAXRu12nyb1Tuw8Ac=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6NZbkQ+rvQa/74J8ix81VjSrADg=
+		7a+MP/uNEB22IhqCwZDKx5cPay8=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/i8vUIz0YIowbsapmKSHdH9rfuw=
+		rVGOzLtRFz25aolcYQIO4vwq2qk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OJoFfSGvbLSb/mF4ypM3fkiY1rXvmZAwRappURY/UFs=
+			+6z9c4jHHi7yDqKC1rDFzX8IQhzaLjaHAwkD9r5lOTM=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H9ntVeUPUDuGzxaeuWdKX8vf19V8WXKrHeKtXF2ro6Q=
+			2wnB0DFyYKXFL4TxlQ/coArjF+SHYZ7YLvDHg7K26pA=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LXM6uDjiuCvF92PybQDDZzvmas3XkxPeQ5GfY5NgxWM=
+			BSf+dzI6C+aHc06fVsPamvRgzXu4gKVZq19cDhSllr0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
