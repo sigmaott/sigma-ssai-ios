@@ -7027,6 +7027,50 @@
           },
           {
             "kind": "Function",
+            "name": "callListUrl",
+            "printedName": "callListUrl(_:eventType:eventId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12SSAITracking9SigmaSSAIC11callListUrl_9eventType0G2IdySaySSG_S2StF",
+            "mangledName": "$s12SSAITracking9SigmaSSAIC11callListUrl_9eventType0G2IdySaySSG_S2StF",
+            "moduleName": "SSAITracking",
+            "isOpen": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "formatDataTracking",
             "printedName": "formatDataTracking(data:)",
             "children": [
@@ -8324,14 +8368,14 @@
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 45253,
+      "offset": 46299,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45678,
+      "offset": 46724,
       "length": 21,
       "value": "\"dd\/MM\/yyyy_HH:mm:ss\""
     },
