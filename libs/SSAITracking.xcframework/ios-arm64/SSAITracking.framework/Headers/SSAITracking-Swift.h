@@ -302,6 +302,16 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@class AVAssetResourceLoader;
+@class AVAssetResourceLoadingRequest;
+
+SWIFT_CLASS("_TtC12SSAITracking19CustomAVARLDelegate")
+@interface CustomAVARLDelegate : NSObject <AVAssetResourceLoaderDelegate>
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (BOOL)resourceLoader:(AVAssetResourceLoader * _Nonnull)resourceLoader shouldWaitForLoadingOfRequestedResource:(AVAssetResourceLoadingRequest * _Nonnull)loadingRequest SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class PALNonceLoader;
 @class PALNonceRequest;
 @class PALNonceManager;
@@ -310,6 +320,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class AVPlayerItemTrack;
 @class AVPlayerItemLegibleOutput;
 @class NSAttributedString;
+@class NSNotification;
 @class NSString;
 
 SWIFT_CLASS("_TtC12SSAITracking9SigmaSSAI")
@@ -318,6 +329,7 @@ SWIFT_CLASS("_TtC12SSAITracking9SigmaSSAI")
 - (void)nonceLoader:(PALNonceLoader * _Nonnull)nonceLoader withRequest:(PALNonceRequest * _Nonnull)request didFailWithError:(NSError * _Nonnull)error;
 - (void)metadataOutput:(AVPlayerItemMetadataOutput * _Nonnull)_ didOutputTimedMetadataGroups:(NSArray<AVTimedMetadataGroup *> * _Nonnull)groups fromPlayerItemTrack:(AVPlayerItemTrack * _Nullable)_;
 - (void)legibleOutput:(AVPlayerItemLegibleOutput * _Nonnull)_ didOutputAttributedStrings:(NSArray<NSAttributedString *> * _Nonnull)strings nativeSampleBuffers:(NSArray * _Nonnull)_ forItemTime:(CMTime)_;
+- (void)playerDidFinishPlayingWithNote:(NSNotification * _Nonnull)note;
 - (void)observeValueForKeyPath:(NSString * _Nullable)keyPath ofObject:(id _Nullable)object change:(NSDictionary<NSKeyValueChangeKey, id> * _Nullable)change context:(void * _Nullable)context;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
