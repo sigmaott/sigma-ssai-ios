@@ -16,8 +16,5 @@ Pod::Spec.new do |spec|
 
   # Published binaries
   spec.vendored_frameworks = "libs/ProgrammaticAccessLibrary.xcframework","libs/SSAITracking.xcframework"
-  spec.vendored_libraries = "libs/ssai_ios.a", "libs/libssai-sdk.a"
-  spec.pod_target_xcconfig = {
-    'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-  }
+  spec.vendored_libraries = "libs/libssai_ios.a", "libs/libssai-sdk.a"
 end
