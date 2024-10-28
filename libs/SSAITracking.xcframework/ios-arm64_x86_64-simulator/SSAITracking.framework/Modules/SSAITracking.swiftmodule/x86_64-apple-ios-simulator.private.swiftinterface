@@ -17,6 +17,7 @@ import _SwiftConcurrencyShims
 @objc public class SigmaSSAI : ObjectiveC.NSObject, AVFoundation.AVAssetResourceLoaderDelegate, ProgrammaticAccessLibrary.NonceLoaderDelegate, AVFoundation.AVPlayerItemMetadataOutputPushDelegate, AVFoundation.AVPlayerItemLegibleOutputPushDelegate {
   public init(_ videoUrl: Swift.String, _ adsProxy: Swift.String, _ callback: any SSAITracking.SigmaSSAIInterface, _ videoView: UIKit.UIView, _ pilotEnable: Swift.Bool)
   public func setVideoUrl(_ videoUrl: Swift.String)
+  public func setVideoProfileUrl(_ videoProfileUrl: Swift.String)
   public func setShowLog(_ show: Swift.Bool)
   @objc public func nonceLoader(_ nonceLoader: ProgrammaticAccessLibrary.NonceLoader, with request: ProgrammaticAccessLibrary.NonceRequest, didLoad nonceManager: ProgrammaticAccessLibrary.NonceManager)
   @objc public func nonceLoader(_ nonceLoader: ProgrammaticAccessLibrary.NonceLoader, with request: ProgrammaticAccessLibrary.NonceRequest, didFailWith error: any Swift.Error)
