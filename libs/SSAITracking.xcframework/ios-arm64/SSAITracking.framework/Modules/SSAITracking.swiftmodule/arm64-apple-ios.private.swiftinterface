@@ -24,6 +24,7 @@ import _SwiftConcurrencyShims
   @objc public func metadataOutput(_: AVFoundation.AVPlayerItemMetadataOutput, didOutputTimedMetadataGroups groups: [AVFoundation.AVTimedMetadataGroup], from _: AVFoundation.AVPlayerItemTrack?)
   @objc public func legibleOutput(_: AVFoundation.AVPlayerItemLegibleOutput, didOutputAttributedStrings strings: [Foundation.NSAttributedString], nativeSampleBuffers _: [Any], forItemTime _: CoreMedia.CMTime)
   public func getAsset() -> AVFoundation.AVURLAsset
+  public func getAVPlayerItem() -> AVFoundation.AVPlayerItem
   public func setPlayer(_ avPlayer: AVFoundation.AVPlayer)
   public func playerError(playerError error: Any)
   public func clear()
