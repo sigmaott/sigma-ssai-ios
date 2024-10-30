@@ -1,4 +1,11 @@
 framework module SSAITracking {
+  umbrella header "SSAITracking.h"
+  export *
+
+  module * { export * }
+}
+
+module SSAITracking.Swift {
   header "SSAITracking-Swift.h"
   requires objc
 }

@@ -8,7 +8,7 @@ import AdSupport
 import AppTrackingTransparency
 import Foundation
 import ProgrammaticAccessLibrary
-import SSAIFramework
+@_exported import SSAITracking
 import Swift
 import UIKit
 import _Concurrency
