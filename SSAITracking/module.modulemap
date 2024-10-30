@@ -1,0 +1,12 @@
+//
+//  module.modulemap
+//  SSAITracking
+//
+//  Created by Pham Hai on 29/10/2024.
+//
+
+module SSAIFramework {
+    header "ssai_ios.h"   // Main header for libssai_ios
+    header "SsaiSDK.h"     // Main header for libssai-sdk
+    export *
+}
