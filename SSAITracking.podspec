@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.swift_version      = "5.3"
   spec.source_files = 'SSAITracking/**/*.{h,m}'
   spec.public_header_files = 'SSAITracking/**/*.h'
-  spec.module_map = 'SSAITracking/**/*.modulemap'
+  spec.module_map = 'SSAITracking/module.modulemap'
 
   # Supported deployment targets
   spec.ios.deployment_target  = "12.4"
