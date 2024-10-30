@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "SSAITracking"
-  spec.version            = "1.0.35"
+  spec.version            = "1.0.36"
   spec.summary            = "SimgaSSAI Library for iOS apps"
   spec.description        = "TDM SimgaSSAI Library for iOS apps"
   spec.homepage           = "https://github.com/sigmaott/sigma-ssai-ios"
@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.swift_version      = "5.3"
   spec.source_files = 'SSAITracking/**/*.{h,m}'
   spec.public_header_files = 'SSAITracking/**/*.h'
-  spec.module_map = 'SSAITracking/module.modulemap'
+  spec.module_map = 'module/module.modulemap'
 
   # Supported deployment targets
   spec.ios.deployment_target  = "12.4"
