@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "SSAITracking"
-  spec.version            = "1.0.37"
+  spec.version            = "1.0.38"
   spec.summary            = "SimgaSSAI Library for iOS apps"
   spec.description        = "TDM SimgaSSAI Library for iOS apps"
   spec.homepage           = "https://github.com/sigmaott/sigma-ssai-ios"
@@ -11,11 +11,15 @@ Pod::Spec.new do |spec|
   spec.swift_version      = "5.3"
   spec.source_files = 'SSAITracking/**/*.{h,m}'
   spec.public_header_files = 'SSAITracking/**/*.h'
-  # spec.module_map = 'module/module.modulemap'
-  spec.preserve_paths = 'module/module.modulemap'
+  spec.module_map = 'module/module.modulemap'
+  # spec.preserve_paths = 'module/module.modulemap'
 
   # Supported deployment targets
   spec.ios.deployment_target  = "12.4"
+  spec.pod_target_xcconfig = {
+    'DEFINES_MODULE' => 'YES',
+    'HEADER_SEARCH_PATHS' => '$(inherited) "SSAITracking"',
+  }
 
   # Published binaries
   spec.vendored_frameworks = "libs/ProgrammaticAccessLibrary.xcframework","libs/SSAITracking.xcframework"
