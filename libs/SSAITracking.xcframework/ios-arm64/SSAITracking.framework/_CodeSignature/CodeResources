@@ -8,6 +8,10 @@
 		<data>
 		+EFh/HnEnEQJeRRcWYqfoA6bjlg=
 		</data>
+		<key>Headers/SSAITracking.h</key>
+		<data>
+		rFrJiRVtNOZRlIrLY4HnlipKF7I=
+		</data>
 		<key>Headers/SsaiSDK.h</key>
 		<data>
 		geD4buDUws2V0eClTi7eiB3WEsk=
@@ -22,15 +26,15 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		O0PxIRsb8rFRSJJnYNU4cSDUFEk=
+		AW981KaPx3KrW4/SGFjeOIw5QAc=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		K3SQDaFbMGfQ9VdhKDSK0POQmhM=
+		NIaDk8/wcQskSweDMEPlcDfvOls=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		kFg4c833Mj1Bl32QM1cMq0LN/1A=
+		R7hn0Q+cHuJksITHlVjcY/jDpZ8=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,15 +42,15 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		kFg4c833Mj1Bl32QM1cMq0LN/1A=
+		R7hn0Q+cHuJksITHlVjcY/jDpZ8=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cF+n6YIgl+F9u48XeS6Sfh/X/5g=
+		HQ3+rOlt2adBqiaG7VX7ya6OQoc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		QuLz+8QkpuJor53L5Jairmz9GDY=
+		5I9MBFDFLmgP5TEc/s2AXnZz84g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -56,6 +60,13 @@
 			<key>hash2</key>
 			<data>
 			JP0yFifUCKvECQhqZJqz3/KlXKmsRT1pOzO652A8lXs=
+			</data>
+		</dict>
+		<key>Headers/SSAITracking.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DutUYsBc+kJxFw61q2Y3WnK2wAiucuKHNigIJUkPKHc=
 			</data>
 		</dict>
 		<key>Headers/SsaiSDK.h</key>
@@ -76,21 +87,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vgJwtebLFAy6gZt5r+znABg5b9gneCHb0QdnCSajyxY=
+			FkWZhDTHTnh59A418lYw4Z83dVWGjMlV7U/DdL23ZgU=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VMkcL/VY9+9Aas8rBGxoJQZ5PoSjFyu/Vpu2X3lo8wM=
+			ompHvpZlVlXoMfqwY1xAhV5hoHrMWN+uwjccenR0LE8=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fIYNtqDI1sD051cDLn8f5L58A6S/9cV/aJXfU49JC+Q=
+			jaj2NTeFDRuAhtqn/5SrNjK1I319DW7/GeSQ3Aje8BE=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -104,21 +115,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fIYNtqDI1sD051cDLn8f5L58A6S/9cV/aJXfU49JC+Q=
+			jaj2NTeFDRuAhtqn/5SrNjK1I319DW7/GeSQ3Aje8BE=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fsuak1VywH11Gl+j6R7TZOuCHU7pRjGQuTsOQKzVYZA=
+			qCyhNW8wOJwuSGG/cQ611wIQrHQYi7cjliI8NMxw6+s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOQYvn0NKgorsIt3Ht69M3D4uAMgFaZ4DFmqnnsnuVI=
+			PAQ9eo1rX+4VWrRhb4MDkLDXRlixR05FFtSj+y5wlTM=
 			</data>
 		</dict>
 	</dict>
