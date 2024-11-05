@@ -6,4 +6,6 @@
 -(void) setAdsParamsWithUrl:(NSString*)url andParams:(NSString* )adsParams;
 -(NSString*) getTrackingData:(NSString* )url ;
 -(void) setAdsServerUrl:(NSString* )manifestUrl andAdsServerUrl:(NSString*)adsServerUrl;
+-(void) onEnterForceground;
+-(void) onEnterBackground;
 @end
