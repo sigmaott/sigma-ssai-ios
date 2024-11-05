@@ -14,6 +14,8 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os.log
+import os
 @objc public class SigmaSSAI : ObjectiveC.NSObject, AVFoundation.AVAssetResourceLoaderDelegate, ProgrammaticAccessLibrary.NonceLoaderDelegate, AVFoundation.AVPlayerItemMetadataOutputPushDelegate, AVFoundation.AVPlayerItemLegibleOutputPushDelegate {
   public static func start()
   public init(_ adsProxy: Swift.String, _ callback: any SSAITracking.SigmaSSAIInterface, _ videoView: UIKit.UIView)
