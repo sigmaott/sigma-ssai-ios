@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		wKGFjmiaftOW7+6lNIq5BG5YvQw=
+		hjrCKrEBWcz9H8seegk/OaQUhAc=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ujytgGioFM601ZOYQhvN+opxdew=
+		D/hRrZpo2m2WDFQsokd9B0Fw0Yc=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zJ+Syze8DynqYdiLylcW4AqEzA8=
+		R/GU+I7kO28xDOMXC0CEqYyYZn0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -76,14 +76,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I8dvVtVzedIUeV+QipzYFRfDRX8Hoy2IU6c+LNhjJBA=
+			tLj926v/6xeTr4j/ygp8QEA/fI1Box9HHGgxs4CZKQA=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DJ5ovAPNwvBvpZQ6Kw+RQteOgjlHJ54K1X1bHAUHdR0=
+			gNM4ImxOlZ4W5RxnFl423zkDOWJreVPe0OJh4GABNi8=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dpGKx6qWtlmzqA0GgDayCVq9s6zCXrUKRUy/NN/6ves=
+			2VP+A1F3kUboaoISFsNKFRCFwexoUjNEgHzjg8Jufbw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
