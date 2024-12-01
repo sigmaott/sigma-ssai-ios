@@ -6,7 +6,6 @@
 //
 
 module SSAIFramework {
-    header "ssai_ios.h"   // Main header for libssai_ios
     header "SsaiSDK.h"     // Main header for libssai-sdk
     export *
 }
