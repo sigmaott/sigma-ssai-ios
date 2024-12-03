@@ -18,8 +18,10 @@ import os.log
 import os
 @objc public class SigmaSSAI : ObjectiveC.NSObject, AVFoundation.AVAssetResourceLoaderDelegate, ProgrammaticAccessLibrary.NonceLoaderDelegate, AVFoundation.AVPlayerItemMetadataOutputPushDelegate, AVFoundation.AVPlayerItemLegibleOutputPushDelegate {
   public static func start()
-  public init(_ adsEndpoint: Swift.String, _ callback: any SSAITracking.SigmaSSAIInterface, _ videoView: UIKit.UIView)
+  public init(_ callback: any SSAITracking.SigmaSSAIInterface, _ videoView: UIKit.UIView)
   @objc deinit
+  public func setAdsEndpoint(_ adsEndpoint: Swift.String)
+  public func setAdsParams(_ adsParams: Swift.String)
   public func generateUrl(_ videoUrl: Swift.String)
   public func setShowLog(_ show: Swift.Bool)
   @objc public func nonceLoader(_ nonceLoader: ProgrammaticAccessLibrary.NonceLoader, with request: ProgrammaticAccessLibrary.NonceRequest, didLoad nonceManager: ProgrammaticAccessLibrary.NonceManager)
