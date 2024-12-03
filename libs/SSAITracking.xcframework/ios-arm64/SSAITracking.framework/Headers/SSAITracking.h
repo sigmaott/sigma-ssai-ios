@@ -15,3 +15,4 @@ FOUNDATION_EXPORT const unsigned char FrameworkBVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <SSAITracking/PublicHeader.h>
 #import <SSAITracking/SsaiSDK.h>
+//#import <SSAITracking/SmRef.h>

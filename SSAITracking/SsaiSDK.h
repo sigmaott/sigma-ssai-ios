@@ -10,8 +10,8 @@ typedef NS_ENUM(NSInteger, SmLogLevel) {
 
 @interface SsaiSDK : NSObject
 + (SsaiSDK *)getInstance;
-- (void) setLogLevel:(SmLogLevel) logLevel;
-- (SmLogLevel) getLogLevel;
++ (void) setLogLevel:(SmLogLevel) logLevel;
++ (SmLogLevel) getLogLevel;
 
 - (NSString *)generate:(NSString *)url;
 - (void) setAdsParamsWithUrl:(NSString*)url andParams:(NSString* )adsParams;
