@@ -15,6 +15,7 @@ typedef NS_ENUM(NSInteger, SmLogLevel) {
 
 - (NSString *)generate:(NSString *)url;
 - (void) setAdsParamsWithUrl:(NSString*)url andParams:(NSString* )adsParams;
+- (void) setExtraParams:(NSString*)url andExtraParams:(NSString* )extraParams;
 - (void) setAdsEndpointWithUrl:(NSString* )url adsEndpoint:(NSString*)adsEndpoint;
 - (void) setAdsEndpoint:(NSString *)url adsEndpoint:(NSString *)adsEndpoint __attribute__((deprecated("This method is deprecated. Use setAdsEndpointWithUrl instead.")));
 - (NSString*) getTrackingData:(NSString* )url;
