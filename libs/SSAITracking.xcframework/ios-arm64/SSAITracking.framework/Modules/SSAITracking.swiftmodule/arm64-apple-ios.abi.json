@@ -1407,2843 +1407,2906 @@
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 5338,
+      "length": 24,
+      "value": "\"SSAI: init sdk success\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Array",
-      "offset": 5904,
+      "offset": 5991,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 6707,
+      "offset": 6794,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 6862,
+      "offset": 6949,
       "length": 23,
       "value": "\"sigma.dai.adsEndpoint\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 6892,
+      "offset": 6979,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 7096,
+      "offset": 7219,
+      "length": 32,
+      "value": "\"SSAI: hasAdsEndpointQuery true\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 7314,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 7490,
+      "offset": 7417,
+      "length": 33,
+      "value": "\"SSAI: hasAdsEndpointQuery false\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 7608,
+      "length": 31,
+      "value": "\"SSAI: hasAdsEndpointInit true\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 7835,
+      "length": 32,
+      "value": "\"SSAI: hasAdsEndpointInit false\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 8080,
+      "length": 19,
+      "value": "\"SSAI: generateUrl\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 8246,
       "length": 20,
       "value": "\"Video url is empty\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 7673,
+      "offset": 8429,
       "length": 27,
       "value": "\"Video url decode is empty\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 7835,
+      "offset": 8591,
       "length": 29,
       "value": "\"Video url decode is invalid\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 8124,
+      "offset": 8880,
       "length": 23,
       "value": "\"initSSAI=>generateUrl\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 8200,
+      "offset": 8956,
       "length": 11,
       "value": "\"localhost\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 8455,
+      "offset": 9211,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 8677,
+      "offset": 9433,
       "length": 39,
       "value": "\"requestTrackingAuthorization=>success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 8830,
+      "offset": 9586,
       "length": 41,
       "value": "\"skip request tracking with iOS below 14\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 9162,
+      "offset": 9918,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 9410,
+      "offset": 10166,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 9463,
+      "offset": 10219,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 10163,
+      "offset": 10919,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 10197,
+      "offset": 10953,
       "length": 10,
       "value": "\"AVPlayer\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 10240,
+      "offset": 10996,
       "length": 7,
       "value": "\"1.0.0\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 10383,
+      "offset": 11139,
       "length": 81,
       "value": "\"videoPlayerHeight=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 10433,
+      "offset": 11189,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 10463,
+      "offset": 11219,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 11449,
+      "offset": 12205,
       "length": 15,
       "value": "\"PAL_message=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 11603,
+      "offset": 12359,
       "length": 35,
       "value": "\"PAL_message=>palSendPlaybackStart\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 11806,
+      "offset": 12562,
       "length": 33,
       "value": "\"PAL_message=>palSendPlaybackEnd\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 12509,
+      "offset": 12873,
+      "length": 31,
+      "value": "\"SSAI: handlerAfterNonceFinish\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 13359,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13001,
+      "offset": 13851,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13127,
+      "offset": 14005,
+      "length": 48,
+      "value": "\"SSAI: handlerAfterNonceFinish set nonce params\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 14124,
       "length": 111,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13143,
+      "offset": 14140,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13191,
+      "offset": 14188,
       "length": 3,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13197,
+      "offset": 14194,
       "length": 3,
       "value": "\"?\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13201,
+      "offset": 14198,
       "length": 5,
       "value": "\"sigma.dai.play_params.nonce=\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13237,
+      "offset": 14234,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13326,
+      "offset": 14323,
       "length": 38,
       "value": "\"sigma.dai.play_params.nonce=\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13363,
+      "offset": 14360,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13460,
+      "offset": 14457,
       "length": 27,
       "value": "\"handlerAfterNonceFinish=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13911,
+      "offset": 14908,
       "length": 50,
       "value": "\"Programmatic access nonce: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 13960,
+      "offset": 14957,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 14172,
+      "offset": 15169,
       "length": 54,
       "value": "\"Error generating programmatic access nonce: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 14225,
+      "offset": 15222,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 14249,
+      "offset": 15246,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 14570,
+      "offset": 15567,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 14849,
+      "offset": 15846,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 14955,
+      "offset": 15952,
       "length": 29,
       "value": "\"muteChange=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 14983,
+      "offset": 15980,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 15170,
+      "offset": 16167,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 15272,
+      "offset": 16269,
       "length": 31,
       "value": "\"pauseChange=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 15302,
+      "offset": 16299,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 15864,
+      "offset": 16861,
       "length": 44,
       "value": "\"SSAI: metadataOutput=>recevied event start\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16002,
+      "offset": 16999,
       "length": 40,
       "value": "\"SSAI: metadataOutput=>call event start\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16162,
+      "offset": 17159,
       "length": 48,
       "value": "\"SSAI: metadataOutput=>call event start success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16280,
+      "offset": 17277,
       "length": 46,
       "value": "\"SSAI: metadataOutput=>call event start false\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16520,
+      "offset": 17517,
       "length": 52,
       "value": "\"SSAI: metadataOutput=>recevied event firstQuartile\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16666,
+      "offset": 17663,
       "length": 48,
       "value": "\"SSAI: metadataOutput=>call event firstQuartile\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16834,
+      "offset": 17831,
       "length": 56,
       "value": "\"SSAI: metadataOutput=>call event firstQuartile success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 16960,
+      "offset": 17957,
       "length": 54,
       "value": "\"SSAI: metadataOutput=>call event firstQuartile false\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 17203,
+      "offset": 18200,
       "length": 47,
       "value": "\"SSAI: metadataOutput=>recevied event midpoint\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 17344,
+      "offset": 18341,
       "length": 43,
       "value": "\"SSAI: metadataOutput=>call event midpoint\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 17507,
+      "offset": 18504,
       "length": 51,
       "value": "\"SSAI: metadataOutput=>call event midpoint success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 17628,
+      "offset": 18625,
       "length": 49,
       "value": "\"SSAI: metadataOutput=>call event midpoint false\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 17871,
+      "offset": 18868,
       "length": 52,
       "value": "\"SSAI: metadataOutput=>recevied event thirdQuartile\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18017,
+      "offset": 19014,
       "length": 48,
       "value": "\"SSAI: metadataOutput=>call event thirdQuartile\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18185,
+      "offset": 19182,
       "length": 56,
       "value": "\"SSAI: metadataOutput=>call event thirdQuartile success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18311,
+      "offset": 19308,
       "length": 54,
       "value": "\"SSAI: metadataOutput=>call event thirdQuartile false\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18554,
+      "offset": 19551,
       "length": 47,
       "value": "\"SSAI: metadataOutput=>recevied event complete\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18695,
+      "offset": 19692,
       "length": 43,
       "value": "\"SSAI: metadataOutput=>call event complete\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18858,
+      "offset": 19855,
       "length": 51,
       "value": "\"SSAI: metadataOutput=>call event complete success\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 18979,
+      "offset": 19976,
       "length": 49,
       "value": "\"SSAI: metadataOutput=>call event complete false\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Array",
-      "offset": 19383,
+      "offset": 20380,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Array",
-      "offset": 19755,
+      "offset": 20752,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 19830,
+      "offset": 20827,
       "length": 6,
       "value": "\"adId\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 19902,
+      "offset": 20899,
       "length": 7,
       "value": "\"event\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20105,
+      "offset": 21102,
       "length": 25,
       "value": "\"---ID3 EVENT---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20129,
+      "offset": 21126,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 20205,
+      "offset": 21202,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 20211,
+      "offset": 21208,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 20218,
+      "offset": 21215,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 20225,
+      "offset": 21222,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20363,
+      "offset": 21360,
       "length": 30,
       "value": "\"JSON Parsing Error: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20392,
+      "offset": 21389,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20506,
+      "offset": 21503,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20522,
+      "offset": 21519,
       "length": 12,
       "value": "\"identifier\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20573,
+      "offset": 21570,
       "length": 24,
       "value": "\"itemMetadata=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 20596,
+      "offset": 21593,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 21022,
+      "offset": 22019,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 21296,
+      "offset": 22293,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 21694,
+      "offset": 22691,
       "length": 16,
       "value": "\"Video Finished\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 21818,
+      "offset": 22815,
       "length": 20,
       "value": "\"getAsset=>videoUrl\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 21965,
+      "offset": 22962,
       "length": 29,
       "value": "\"getAsset=>videoUrl_delegate\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 23083,
+      "offset": 24080,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 23346,
+      "offset": 24343,
       "length": 30,
       "value": "\"startPlayer=>setPlayer=>ssai\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
+      "kind": "StringLiteral",
+      "offset": 24426,
+      "length": 18,
+      "value": "\"SSAI: set player\""
+    },
+    {
+      "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 23399,
+      "offset": 24477,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 23534,
+      "offset": 24612,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 23835,
+      "offset": 24913,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 23953,
+      "offset": 25031,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Array",
-      "offset": 23972,
+      "offset": 25050,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 24330,
+      "offset": 25408,
       "length": 15,
       "value": "\"Clear ssaisdk\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25145,
+      "offset": 26223,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 25204,
+      "offset": 26282,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 25233,
+      "offset": 26311,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25285,
+      "offset": 26363,
       "length": 14,
       "value": "\"log_load_url\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25432,
+      "offset": 26510,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 25478,
+      "offset": 26556,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25500,
+      "offset": 26578,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25526,
+      "offset": 26604,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25548,
+      "offset": 26626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25583,
+      "offset": 26661,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 25613,
+      "offset": 26691,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25738,
+      "offset": 26816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25840,
+      "offset": 26918,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25852,
+      "offset": 26930,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25862,
+      "offset": 26940,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25913,
+      "offset": 26991,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25925,
+      "offset": 27003,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25986,
+      "offset": 27064,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 25998,
+      "offset": 27076,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26055,
+      "offset": 27133,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26067,
+      "offset": 27145,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26132,
+      "offset": 27210,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26144,
+      "offset": 27222,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26209,
+      "offset": 27287,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26221,
+      "offset": 27299,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26278,
+      "offset": 27356,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26290,
+      "offset": 27368,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 26374,
+      "offset": 27452,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 26398,
+      "offset": 27476,
       "length": 43,
       "value": "\"onStartTracking=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 26440,
+      "offset": 27518,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 26488,
+      "offset": 27566,
       "length": 19,
       "value": "\"onStartTracking=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26624,
+      "offset": 27702,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 26720,
+      "offset": 27798,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26797,
+      "offset": 27875,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26844,
+      "offset": 27922,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 26931,
+      "offset": 28009,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 26981,
+      "offset": 28059,
       "length": 16,
       "value": "\"Start tracking\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27259,
+      "offset": 28337,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27283,
+      "offset": 28361,
       "length": 59,
       "value": "\"listEventTrackingCalled=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27341,
+      "offset": 28419,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27379,
+      "offset": 28457,
       "length": 8,
       "value": "\"avails\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 27428,
+      "offset": 28506,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27464,
+      "offset": 28542,
       "length": 25,
       "value": "\"No available ads found.\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27561,
+      "offset": 28639,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27605,
+      "offset": 28683,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27653,
+      "offset": 28731,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27689,
+      "offset": 28767,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27774,
+      "offset": 28852,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 27827,
+      "offset": 28905,
       "length": 5,
       "value": "\"ads\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 27978,
+      "offset": 29056,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28060,
+      "offset": 29138,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28129,
+      "offset": 29207,
       "length": 16,
       "value": "\"trackingEvents\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28342,
+      "offset": 29420,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 28440,
+      "offset": 29518,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28493,
+      "offset": 29571,
       "length": 10,
       "value": "\"position\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 28516,
+      "offset": 29594,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28739,
+      "offset": 29817,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 28846,
+      "offset": 29924,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 28972,
+      "offset": 30050,
       "length": 7,
       "value": "\"icons\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 29582,
+      "offset": 30660,
       "length": 40,
       "value": "\"No event with eventType 'start' found.\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 29700,
+      "offset": 30778,
       "length": 31,
       "value": "\"Not found list tracking event\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 29881,
+      "offset": 30959,
       "length": 9,
       "value": "\"program\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 29915,
+      "offset": 30993,
       "length": 17,
       "value": "\"GoogleWhyThisAd\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 29975,
+      "offset": 31053,
       "length": 16,
       "value": "\"staticResource\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30052,
+      "offset": 31130,
       "length": 5,
       "value": "\"uri\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 30083,
+      "offset": 31161,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 30141,
+      "offset": 31219,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 30207,
+      "offset": 31285,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30339,
+      "offset": 31417,
       "length": 46,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30350,
+      "offset": 31428,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30359,
+      "offset": 31437,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30372,
+      "offset": 31450,
       "length": 1,
       "value": "\"_\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30384,
+      "offset": 31462,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 30658,
+      "offset": 31736,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30754,
+      "offset": 31832,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30825,
+      "offset": 31903,
       "length": 12,
       "value": "\"beaconUrls\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 30966,
+      "offset": 32044,
       "length": 20,
       "value": "\"startTimeInSeconds\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 31073,
+      "offset": 32151,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 31354,
+      "offset": 32432,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 31498,
+      "offset": 32576,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 31837,
+      "offset": 32915,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 31942,
+      "offset": 33020,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32049,
+      "offset": 33127,
       "length": 6,
       "value": "\"adId\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32080,
+      "offset": 33158,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32120,
+      "offset": 33198,
       "length": 20,
       "value": "\"startTimeInSeconds\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32178,
+      "offset": 33256,
       "length": 5,
       "value": "\"url\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32219,
+      "offset": 33297,
       "length": 12,
       "value": "\"beaconUrls\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32261,
+      "offset": 33339,
       "length": 14,
       "value": "\"idStartEvent\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32311,
+      "offset": 33389,
       "length": 10,
       "value": "\"isCalled\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32527,
+      "offset": 33605,
       "length": 39,
       "value": "\"firstUrlTracking=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 32565,
+      "offset": 33643,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 32717,
+      "offset": 33795,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Dictionary",
-      "offset": 33264,
+      "offset": 34342,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 33553,
+      "offset": 34631,
       "length": 23,
       "value": "\"handleIconWtaTapped=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 33633,
+      "offset": 34711,
       "length": 18,
       "value": "\"iconClickThrough\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 33716,
+      "offset": 34794,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 33765,
+      "offset": 34843,
       "length": 40,
       "value": "\"No valid URL found in iconClickThrough\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 33968,
+      "offset": 35046,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34060,
+      "offset": 35138,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34116,
+      "offset": 35194,
       "length": 7,
       "value": "\"width\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "FloatLiteral",
-      "offset": 34160,
+      "offset": 35238,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "FloatLiteral",
-      "offset": 34173,
+      "offset": 35251,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34216,
+      "offset": 35294,
       "length": 11,
       "value": "\"xPosition\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34279,
+      "offset": 35357,
       "length": 11,
       "value": "\"yPosition\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34536,
+      "offset": 35614,
       "length": 140,
       "value": "\"positionWta=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34558,
+      "offset": 35636,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34568,
+      "offset": 35646,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34587,
+      "offset": 35665,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34606,
+      "offset": 35684,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34626,
+      "offset": 35704,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34647,
+      "offset": 35725,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 34675,
+      "offset": 35753,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 34712,
+      "offset": 35790,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 35314,
+      "offset": 36392,
       "length": 6,
       "value": "\"left\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 35395,
+      "offset": 36473,
       "length": 7,
       "value": "\"right\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "FloatLiteral",
-      "offset": 35566,
+      "offset": 36644,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 35621,
+      "offset": 36699,
       "length": 5,
       "value": "\"top\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 35700,
+      "offset": 36778,
       "length": 8,
       "value": "\"bottom\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "FloatLiteral",
-      "offset": 35875,
+      "offset": 36953,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 36138,
+      "offset": 37216,
       "length": 16,
       "value": "\"staticResource\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 36221,
+      "offset": 37299,
       "length": 5,
       "value": "\"uri\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 36331,
+      "offset": 37409,
       "length": 21,
       "value": "\"iconUri=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 36351,
+      "offset": 37429,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 36403,
+      "offset": 37481,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 36631,
+      "offset": 37709,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 37353,
+      "offset": 38431,
       "length": 84,
       "value": "\"Failed to download image: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 37413,
+      "offset": 38491,
       "length": 22,
       "value": "\"No error description\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 37436,
+      "offset": 38514,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 37704,
+      "offset": 38782,
       "length": 15,
       "value": "\"hideIconWta=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 37750,
+      "offset": 38828,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38056,
+      "offset": 39134,
       "length": 41,
       "value": "\"Calling beacon URL: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38089,
+      "offset": 39167,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38096,
+      "offset": 39174,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38145,
+      "offset": 39223,
       "length": 30,
       "value": "\"Calling tracking URL: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38174,
+      "offset": 39252,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 38220,
+      "offset": 39298,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 38227,
+      "offset": 39305,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 38233,
+      "offset": 39311,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 38240,
+      "offset": 39318,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38611,
+      "offset": 39689,
       "length": 11,
       "value": "\"eventType\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38689,
+      "offset": 39767,
       "length": 14,
       "value": "\"idStartEvent\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38765,
+      "offset": 39843,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 38832,
+      "offset": 39910,
       "length": 10,
       "value": "\"isCalled\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39078,
+      "offset": 40156,
       "length": 12,
       "value": "\"beaconUrls\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39267,
+      "offset": 40345,
       "length": 10,
       "value": "\"isCalled\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 39281,
+      "offset": 40359,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39656,
+      "offset": 40734,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39831,
+      "offset": 40909,
       "length": 49,
       "value": "\"VideoError=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 39879,
+      "offset": 40957,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 40068,
+      "offset": 41146,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 40383,
+      "offset": 41461,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40526,
+      "offset": 41604,
       "length": 25,
       "value": "\"callTrackingUrl=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40550,
+      "offset": 41628,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40576,
+      "offset": 41654,
       "length": 97,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40616,
+      "offset": 41694,
       "length": 1,
       "value": "\":---Start call tracking---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40649,
+      "offset": 41727,
       "length": 1,
       "value": "\"-id:\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40663,
+      "offset": 41741,
       "length": 3,
       "value": "\"---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 40672,
+      "offset": 41750,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 40688,
+      "offset": 41766,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 40804,
+      "offset": 41882,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41124,
+      "offset": 42202,
       "length": 35,
       "value": "\"---End call tracking---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41155,
+      "offset": 42233,
       "length": 3,
       "value": "\"---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41174,
+      "offset": 42252,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41282,
+      "offset": 42360,
       "length": 68,
       "value": "\"---End call tracking status---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41320,
+      "offset": 42398,
       "length": 3,
       "value": "\"---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41349,
+      "offset": 42427,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41381,
+      "offset": 42459,
       "length": 38,
       "value": "\"Retrying=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41418,
+      "offset": 42496,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 41510,
+      "offset": 42588,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 41543,
+      "offset": 42621,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41648,
+      "offset": 42726,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41655,
+      "offset": 42733,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41662,
+      "offset": 42740,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41668,
+      "offset": 42746,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41739,
+      "offset": 42817,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41746,
+      "offset": 42824,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41753,
+      "offset": 42831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 41759,
+      "offset": 42837,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41903,
+      "offset": 42981,
       "length": 56,
       "value": "\"---End call tracking data---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41939,
+      "offset": 43017,
       "length": 3,
       "value": "\"---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 41956,
+      "offset": 43034,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 42305,
+      "offset": 43383,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 42338,
+      "offset": 43416,
       "length": 81,
       "value": "\"Call tracking error occurred. Retrying... (\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 42389,
+      "offset": 43467,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 42403,
+      "offset": 43481,
       "length": 8,
       "value": "\" attempts left)\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 42518,
+      "offset": 43596,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 42634,
+      "offset": 43712,
       "length": 45,
       "value": "\"---Error: All retries failed for \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 42675,
+      "offset": 43753,
       "length": 3,
       "value": "\"---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 42694,
+      "offset": 43772,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43006,
+      "offset": 44084,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43010,
+      "offset": 44088,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43073,
+      "offset": 44151,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43077,
+      "offset": 44155,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43185,
+      "offset": 44263,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43189,
+      "offset": 44267,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43257,
+      "offset": 44335,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43261,
+      "offset": 44339,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43374,
+      "offset": 44452,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43378,
+      "offset": 44456,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43448,
+      "offset": 44526,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43452,
+      "offset": 44530,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43556,
+      "offset": 44634,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43560,
+      "offset": 44638,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43626,
+      "offset": 44704,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43630,
+      "offset": 44708,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43743,
+      "offset": 44821,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43747,
+      "offset": 44825,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43817,
+      "offset": 44895,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43821,
+      "offset": 44899,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43925,
+      "offset": 45003,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43929,
+      "offset": 45007,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43995,
+      "offset": 45073,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 43999,
+      "offset": 45077,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44139,
+      "offset": 45217,
       "length": 25,
       "value": "\"fullTextLog=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44163,
+      "offset": 45241,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44262,
+      "offset": 45340,
       "length": 899,
       "value": "\"From \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44283,
+      "offset": 45361,
       "length": 2,
       "value": "\" to \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44322,
+      "offset": 45400,
       "length": 1,
       "value": "\"\nCount call list tracking \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44388,
+      "offset": 45466,
       "length": 1,
       "value": "\"\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44441,
+      "offset": 45519,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44488,
+      "offset": 45566,
       "length": 1,
       "value": "\"\n Count call start:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44551,
+      "offset": 45629,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44588,
+      "offset": 45666,
       "length": 1,
       "value": "\"\nCount call impression:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44660,
+      "offset": 45738,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44702,
+      "offset": 45780,
       "length": 1,
       "value": "\"\nCount call firstQuatile:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44778,
+      "offset": 45856,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44822,
+      "offset": 45900,
       "length": 1,
       "value": "\"\nCount call midpoint:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44890,
+      "offset": 45968,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 44930,
+      "offset": 46008,
       "length": 1,
       "value": "\"\nCount call thirdQuatile:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45006,
+      "offset": 46084,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45050,
+      "offset": 46128,
       "length": 1,
       "value": "\"\nCount call complete:\n-Success: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45118,
+      "offset": 46196,
       "length": 1,
       "value": "\"\n-Fail: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45158,
+      "offset": 46236,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 45439,
+      "offset": 46517,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Dictionary",
-      "offset": 45482,
+      "offset": 46560,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45518,
+      "offset": 46596,
       "length": 99,
       "value": "\"\n\n\n--->GET SESSION<---\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45581,
+      "offset": 46659,
       "length": 1,
       "value": "\":---START CALL SESSION URL---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45616,
+      "offset": 46694,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45858,
+      "offset": 46936,
       "length": 58,
       "value": "\"Error during session call: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45915,
+      "offset": 46993,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 45945,
+      "offset": 47023,
       "length": 13,
       "value": "\"isErrorHttp\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 45962,
+      "offset": 47040,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46153,
+      "offset": 47231,
       "length": 61,
       "value": "\"---END CALL SESSION URL STATUS---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46213,
+      "offset": 47291,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 46279,
+      "offset": 47357,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46316,
+      "offset": 47394,
       "length": 13,
       "value": "\"isErrorHttp\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 46333,
+      "offset": 47411,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46510,
+      "offset": 47588,
       "length": 43,
       "value": "\"No data received or data encoding failed.\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46590,
+      "offset": 47668,
       "length": 13,
       "value": "\"isErrorHttp\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 46607,
+      "offset": 47685,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46922,
+      "offset": 48000,
       "length": 46,
       "value": "\"---END CALL SESSION URL DATA---\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 46967,
+      "offset": 48045,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 47024,
+      "offset": 48102,
       "length": 59,
       "value": "\"---END CALL SESSION URL---\n--->END GET SESSION<---\n\n\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 47098,
+      "offset": 48176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 47304,
+      "offset": 48382,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 47337,
+      "offset": 48415,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47440,
+      "offset": 48518,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47452,
+      "offset": 48530,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47462,
+      "offset": 48540,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47513,
+      "offset": 48591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47525,
+      "offset": 48603,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47586,
+      "offset": 48664,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47598,
+      "offset": 48676,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47655,
+      "offset": 48733,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47667,
+      "offset": 48745,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47732,
+      "offset": 48810,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47744,
+      "offset": 48822,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47809,
+      "offset": 48887,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47821,
+      "offset": 48899,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47878,
+      "offset": 48956,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 47890,
+      "offset": 48968,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 47966,
+      "offset": 49044,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "Dictionary",
-      "offset": 48014,
+      "offset": 49092,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 48213,
+      "offset": 49291,
       "length": 27,
       "value": "\"trackingStringFromPilot=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 48471,
+      "offset": 49549,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 48519,
+      "offset": 49597,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 48660,
+      "offset": 49738,
       "length": 47,
       "value": "\"SSAI: getTrackingData=>data tracking is empty\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 48785,
+      "offset": 49863,
       "length": 42,
       "value": "\"SSAI: getTrackingData=>has data tracking\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 49101,
+      "offset": 50179,
       "length": 19,
       "value": "\"onStartTracking=>\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 49178,
+      "offset": 50256,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "IntegerLiteral",
-      "offset": 49222,
+      "offset": 50300,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 49804,
+      "offset": 50882,
       "length": 22,
       "value": "\"SSAI_LOG: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 49825,
+      "offset": 50903,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 49920,
+      "offset": 50998,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50010,
+      "offset": 51088,
       "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50046,
+      "offset": 51124,
       "length": 1,
       "value": "\": \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50052,
+      "offset": 51130,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50076,
+      "offset": 51154,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50089,
+      "offset": 51167,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50096,
+      "offset": 51174,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50395,
+      "offset": 51473,
       "length": 27,
       "value": "\"writeLogFile:\n\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50421,
+      "offset": 51499,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50550,
+      "offset": 51628,
       "length": 21,
       "value": "\"dd_MM_yyyy_HH_mm_ss\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50708,
+      "offset": 51786,
       "length": 29,
       "value": "\"ssai_log_\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50732,
+      "offset": 51810,
       "length": 1,
       "value": "\".txt\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50825,
+      "offset": 51903,
       "length": 36,
       "value": "\"ssai_log_server_\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50856,
+      "offset": 51934,
       "length": 1,
       "value": "\".txt\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 50977,
+      "offset": 52055,
       "length": 8,
       "value": "\"server\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51049,
+      "offset": 52127,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51242,
+      "offset": 52320,
       "length": 46,
       "value": "\"Start writing \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51267,
+      "offset": 52345,
       "length": 4,
       "value": "\" file at \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51287,
+      "offset": 52365,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "BooleanLiteral",
-      "offset": 51343,
+      "offset": 52421,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51384,
+      "offset": 52462,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51407,
+      "offset": 52485,
       "length": 4,
       "value": "\" file write success at \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51441,
+      "offset": 52519,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51480,
+      "offset": 52558,
       "length": 73,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51503,
+      "offset": 52581,
       "length": 4,
       "value": "\" file write failed: \""
     },
     {
       "filePath": "\/Users\/phamhai\/Documents\/works\/company-project\/sigma-dai-avplayer-ssai-plugin\/SSAITracking\/SigmaSSAI.swift",
       "kind": "StringLiteral",
-      "offset": 51552,
+      "offset": 52630,
       "length": 2,
       "value": "\"\""
     },
