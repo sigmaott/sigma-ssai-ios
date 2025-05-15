@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target arm64-apple-ios12.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SSAITracking
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios12.4 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name SSAITracking
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
 import AVKit
 import AdSupport
@@ -11,6 +11,7 @@ import ProgrammaticAccessLibrary
 @_exported import SSAITracking
 import Swift
 import UIKit
+import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
@@ -20,6 +21,7 @@ import os
   public static func start()
   public init(_ adsEndpoint: Swift.String, _ callback: any SSAITracking.SigmaSSAIInterface, _ videoView: UIKit.UIView)
   @objc deinit
+  public func setUserAgent(_ userAgent: Swift.String)
   public func setAdsEndpoint(_ adsEndpoint: Swift.String)
   public func setAdsParams(_ adsParams: Swift.String)
   public func generateUrl(_ videoUrl: Swift.String)
