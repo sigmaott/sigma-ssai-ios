@@ -14,6 +14,7 @@ typedef NS_ENUM(NSInteger, SmLogLevel) {
 + (SmLogLevel) getLogLevel;
 
 - (NSString *)generate:(NSString *)url;
+- (void) setUserAgent:(NSString*) userAgent;
 - (void) setAdsParamsWithUrl:(NSString*)url andParams:(NSString* )adsParams;
 - (void) setExtraParams:(NSString*)url andExtraParams:(NSString* )extraParams;
 - (void) setAdsEndpointWithUrl:(NSString* )url adsEndpoint:(NSString*)adsEndpoint;
