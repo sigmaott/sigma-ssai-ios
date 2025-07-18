@@ -13,12 +13,13 @@ typedef NS_ENUM(NSInteger, SmLogLevel) {
 + (void) setLogLevel:(SmLogLevel) logLevel;
 + (SmLogLevel) getLogLevel;
 
+- (void) setManifestTimeout:(int)manifestTimeout;
 - (NSString *)generate:(NSString *)url;
 - (void) setUserAgent:(NSString*) userAgent;
+- (void) setCustomData:(NSString* )url customDataJsonStr:(NSString*)customDataJsonStr;
 - (void) setAdsParamsWithUrl:(NSString*)url andParams:(NSString* )adsParams;
-- (void) setExtraParams:(NSString*)url andExtraParams:(NSString* )extraParams;
 - (void) setAdsEndpointWithUrl:(NSString* )url adsEndpoint:(NSString*)adsEndpoint;
-- (void) setAdsEndpoint:(NSString *)url adsEndpoint:(NSString *)adsEndpoint __attribute__((deprecated("This method is deprecated. Use setAdsEndpointWithUrl instead.")));
+- (void) setExtraParams:(NSString*)url andExtraParams:(NSString* )extraParams;
 - (NSString*) getTrackingData:(NSString* )url;
-
+// anh build em voiok
 @end
