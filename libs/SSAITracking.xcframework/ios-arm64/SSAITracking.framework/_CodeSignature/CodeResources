@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
+		<data>
+		Xym89mvwynVfRfylx0G7qwG/lfI=
+		</data>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		GRD2Yrb8hJyP5rBFtJVBuoF5XwI=
+		</data>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
+		<data>
+		atrezIatkQGWxtmkGgk+ZV3J3Xk=
+		</data>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
+		<data>
+		p6t6+jX2/ZIEte8b7QbAShbHbOE=
+		</data>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<data>
 		ECL9obafkMACPCESc+aYC5WuRx4=
@@ -14,23 +30,19 @@
 		</data>
 		<key>Headers/SsaiSDK.h</key>
 		<data>
-		ubUmjn+tr9vG7NX+Gv2ouZunERI=
+		LuxatfXmSOPeU65e+Gr0lwKa4S0=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		v+FFOitYfJbqlocQd4FyaZp3uac=
 		</data>
-		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		Oa/5u9059HwEDqn6TlmC+s9tNMc=
-		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		eBTuExwgwMMFt3z2YgJ/4zGgOW0=
+		cS1OA41tqQccbV/3NbfHNfRjzik=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		aOa6VPlJJPsb+0w1+Ve/7l0ViLc=
+		bD060WZH8MR5sPYWppE3ePmCn+k=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,11 +50,11 @@
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		aOa6VPlJJPsb+0w1+Ve/7l0ViLc=
+		bD060WZH8MR5sPYWppE3ePmCn+k=
 		</data>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		EsmMD+PicHTEF8H0fgJbudDHXoA=
+		rUyKskh1Rqi8xswbPm2jRdyBa34=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,6 +63,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+OSEZr/qE93ZfWXi61qKP8aWoJkKwXWkguLU7SFq3x8=
+			</data>
+		</dict>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O4WljswGqBbIRNj/lrwUj15B19j+SosP3CUtPBd7hUs=
+			</data>
+		</dict>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/ProgrammaticAccessLibrary</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z2PCS/YIuzIx6mTK+zLOq3EWTTrkTC1BCzc98OW3OdU=
+			</data>
+		</dict>
+		<key>Frameworks/ProgrammaticAccessLibrary.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Bo2yTsBtQEW9t4VSAgJo6XIPwzRLuwQPvHfV/PjQBo=
+			</data>
+		</dict>
 		<key>Headers/SSAITracking-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -69,28 +109,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KlrLClbJIsj8/EqCwQHqAKS2p6qUhumElxwf1ec3fT8=
-			</data>
-		</dict>
-		<key>Modules/SSAITracking.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			F15HT0XZLr50hHJrNjWrJUYaGEZ3E63x2ZvhxYEPtak=
+			ycyP7CVZylJFLt3/PP9caYep5vpWVdqWrO/Y8iNXhDo=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			evxP+5rIONATA+BgG1xQhBG1VBvMu2hZzBlTYZ3Q1AQ=
+			8kNz4QWgo4TyXx8lLnNKyM7aq6QLoPZKF1zOXfDnOeI=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tk35ks3+6vYzeL4hl5ypxBeVIXG0MlxjA5dxXnM8hl0=
+			K0fwWO7PshuUxDb+kzag2DQ1FASw0ZybHv30/T4X0yg=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -104,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tk35ks3+6vYzeL4hl5ypxBeVIXG0MlxjA5dxXnM8hl0=
+			K0fwWO7PshuUxDb+kzag2DQ1FASw0ZybHv30/T4X0yg=
 			</data>
 		</dict>
 		<key>Modules/SSAITracking.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+PJdOeoOQIgA8jPTJovKhzpe606BNegQwjfiq+wQG4k=
+			IJx2Kx8mw+7EoJ3X/D0Mdl79CVXE2k+1r20XE8Cq1bU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

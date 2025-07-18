@@ -23,6 +23,9 @@ import os
   @objc deinit
   public func setUserAgent(_ userAgent: Swift.String)
   public func setAdsEndpoint(_ adsEndpoint: Swift.String)
+  public func setAdsEndpoint(_ url: Swift.String, adsEndpoint: Swift.String)
+  public func setCustomData(_ url: Swift.String, customDataJsonStr: Swift.String)
+  public func setManifestTimeout(_ manifestTimeout: Swift.Int32)
   public func setAdsParams(_ adsParams: Swift.String)
   public func generateUrl(_ videoUrl: Swift.String)
   public func setShowLog(_ show: Swift.Bool)
@@ -39,6 +42,6 @@ import os
 }
 public protocol SigmaSSAIInterface {
   func onGenerateVideoUrlSuccess(_ videoUrl: Swift.String)
-  func onGenerateVideoUrlFail(_ message: Swift.String)
+  func onGenerateVideoUrlFail(_ message: Swift.String, videoUrl: Swift.String)
   func onTracking(_ message: Swift.String)
 }
