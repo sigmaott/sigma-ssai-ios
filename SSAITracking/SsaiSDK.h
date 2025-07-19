@@ -21,5 +21,4 @@ typedef NS_ENUM(NSInteger, SmLogLevel) {
 - (void) setAdsEndpointWithUrl:(NSString* )url adsEndpoint:(NSString*)adsEndpoint;
 - (void) setExtraParams:(NSString*)url andExtraParams:(NSString* )extraParams;
 - (NSString*) getTrackingData:(NSString* )url;
-// anh build em voiok
 @end
